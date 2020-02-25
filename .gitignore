@@ -1,4 +1,3 @@
 __pycache__/
-bulk-test.xlsx
-Correspondence_Table.xlsx
+*.csv
 creds.py
